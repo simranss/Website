@@ -18,7 +18,7 @@
 /* Change the color of links on hover */
 .topnav a:hover {
   text-decoration: none;
-  background-color: #ddd;
+  background-color: #999;
   color: black;
 }
 
@@ -116,6 +116,6 @@
 /* Change the color of links on hover */
 .bottomnav a:hover {
   text-decoration: none;
-  background-color: #ddd;
+  background-color: #999;
   color: black;
 }
